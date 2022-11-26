@@ -1,4 +1,4 @@
-# streak_recovery
+# Snap streak recovery
 
  This code will help you recover lost streak.
  first open this link : https://support.snapchat.com/en-US/i-need-help?start=5695496404336640
